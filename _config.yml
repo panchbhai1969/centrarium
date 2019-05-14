@@ -9,9 +9,9 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: DBpedia | 
+title: DBpedia 
 subtitle: "A Neural QA Model for DBpedia"
-email: panchbhai1969 [at] gmail [dot] com
+email: panchbhai1969@gmail.com
 name: Anand Panchbhai
 description: >
   Making data accessible to everyone.
